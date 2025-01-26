@@ -1,2 +1,3 @@
 # Algorithms_CSC3130_Homework1
-This is for my algorithms class
+For CSC3130, Intro to Algorithms. This is my first assignment!
+The Java files for all problems can be located in the CSC3130/src/ folder.
